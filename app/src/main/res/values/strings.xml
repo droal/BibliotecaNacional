@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="main_button_ingresar">Ingresar</string>
+    <string name="desc_main_avatar">Imagen del usuario</string>
+    <string name="item_booklist_image">Imagen de cada item de la lista</string>
+    <string name="hint_book_search">Ingrese la tecnología que desea buscar</string>
+    <string name="booklist_empty">No se encontraron resultados</string>
+    <string name="search_imput_empty">Por favor ingrese un criterio de búsqueda</string>
+    <string name="detail_title">Title</string>
+    <string name="detail_subtitle">Subtitle</string>
+    <string name="detail_isbn">ISBN</string>
+    <string name="detail_price">Price</string>
+    <string name="desc_image_detail_book">Imagen de detalle de cada libro</string>
+</resources>
